@@ -1,10 +1,15 @@
 # AWAP 2023 Game Engine
 
 AWAP Home Page - [Home](https://awap.acmatcmu.com/).
+
 AWAP Official Guide - [Guide](https://docs.google.com/document/d/1piTDL6cHUQIYDfd75VNeHqWmxzcqkFHyf-bdmmrDsmc/edit#).
+
 AWAP Dashboard - [Dashboard](https://dashboard.awap.acmatcmu.com/).
+
 Game Viewer and Mapmaker - [Viewer](https://awap.acmatcmu.com/view).
+
 GitHub Repository - [AWAP GitHub](https://github.com/ACM-CMU/awap-engine-2023-public).
+
 Tournamets results can be found at - [AWAP Tournaments Results](https://challonge.com/ii3qtozf).
 
 This is the AWAP 2023 game engine.
