@@ -1,5 +1,7 @@
 # AWAP 2023 Game Engine
 
+Tournamets results can be found at - https://challonge.com/ii3qtozf
+
 This is the AWAP 2023 game engine.
 
 Last year's game engine can be found [here](https://github.com/rzhan11/awap2022-engine).
