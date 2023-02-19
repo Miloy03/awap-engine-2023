@@ -2,7 +2,7 @@
 
 This is the AWAP 2023 game engine.
 
-### AWAP Home Page - [Home](https://awap.acmatcmu.com/).
+##### AWAP Home Page - [Home](https://awap.acmatcmu.com/).
 
 ### AWAP Official Guide - [Guide](https://docs.google.com/document/d/1piTDL6cHUQIYDfd75VNeHqWmxzcqkFHyf-bdmmrDsmc/edit#).
 
