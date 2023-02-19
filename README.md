@@ -12,7 +12,7 @@ This is the AWAP 2023 game engine.
 
 #### GitHub Repository - [AWAP GitHub](https://github.com/ACM-CMU/awap-engine-2023-public).
 
-#### Tournamets results can be found at - [AWAP Tournaments Results](https://challonge.com/ii3qtozf).
+#### Tournaments results can be found at - [AWAP Tournaments Results](https://challonge.com/ii3qtozf).
 
 Last year's game engine can be found [here](https://github.com/rzhan11/awap2022-engine).
 
